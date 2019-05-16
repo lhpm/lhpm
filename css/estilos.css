@@ -1,0 +1,43 @@
+.dropdown {
+
+	font-size:1.8vw;/*Responsive*/
+    left:19%;
+    top:30%;
+}
+
+.modal-title{
+	font-size:1.6vw;/*Responsive*/
+}
+
+.modal-body{
+	font-size:1.3vw;/*Responsive*/
+}
+
+p a {
+	color:#FFFFAA;
+	text-decoration:underline;
+}
+
+#footer {
+	width:100%;bottom:-3%;position:fixed;background-color:black;border-color:black;
+	color:gray;font-size:1vw;/*Responsive*/
+}
+
+.imagen img{
+
+width: 100%;
+height:99%;
+margin:0px;
+}
+
+.fondo div{
+padding:0px;
+}
+
+.imgTitulo{
+width: 100%;
+text-align:center;
+font-size:4vw;
+margin-top:-10%;
+margin-left:-22%;
+}
