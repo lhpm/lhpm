@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="DNYM-uugfx2JJFn9V-avBRLJEWMLLah26K4l3plqNBw" />
-<title>luismachadoportafolio.com.co</title>
+<title>luismachadoportafolio.com.co, desarrollo web, diseño web, aplicaciones móviles, apliciones movil, programación, react, react js, react native, laravel, codeigniter, html5, css3, jquery, php, mysql, wordpress, joomla, medellin, antioquia, ´personalizado, medida</title>
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
